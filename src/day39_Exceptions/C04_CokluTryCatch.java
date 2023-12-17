@@ -14,7 +14,7 @@ public class C04_CokluTryCatch {
             1- riskler ayri ayri try catch icinde alınabilir
             2- ic ice try catch kullanılabilir
             3- tek try birden fazla catch blogu alabilir
-            4-
+            4- tek try, tum riskleri kapsayan bir catch blogu olabilir
          */
 
         Scanner scanner = new Scanner(System.in);

@@ -35,6 +35,8 @@ public class C03_CokluTryCatch {
             System.out.println("Tamsayi dedik TAMSAYI..");
         } catch (ArithmeticException e) {
             System.out.println("Bölünecek sayi 0 olamaz");
+        }catch (Exception e) {
+            System.out.println("Yanlış giden bir şeyler var...");
         }
     }
 }
