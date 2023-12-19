@@ -36,7 +36,5 @@ public class C04_Deque {
         System.out.println(deque); // [6, 10, 7, 3, 11, 4]
 
 
-
-
     }
 }
