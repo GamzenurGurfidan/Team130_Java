@@ -88,7 +88,7 @@ public class C01_ListIterator {
                 lit.set(sayi + 7);
             }
         }
-        System.out.println(sayilar); // [3, 12]
+        System.out.println(sayilar);  // [3, 12]
 
 
     }
