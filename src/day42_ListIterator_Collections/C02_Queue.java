@@ -35,6 +35,5 @@ public class C02_Queue {
 
         System.out.println(sayilar.hashCode()); // 2335
 
-
     }
 }
