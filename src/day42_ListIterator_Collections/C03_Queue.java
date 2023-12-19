@@ -56,8 +56,6 @@ public class C03_Queue {
 
         System.out.println(queue.isEmpty()); // false
 
-
-
     }
 }
 
