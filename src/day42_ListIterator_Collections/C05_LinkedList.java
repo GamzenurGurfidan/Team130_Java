@@ -13,7 +13,7 @@ public class C05_LinkedList {
 
         LinkedList<Integer> linkedList = new LinkedList<>();
 
-        linkedList.add()
+
 
 
     }
