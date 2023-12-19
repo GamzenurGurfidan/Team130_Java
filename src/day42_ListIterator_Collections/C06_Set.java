@@ -26,5 +26,11 @@ public class C06_Set {
 
         System.out.println(uniqueSet); // [2, 3, 4, 5, 6, 7]
 
+        // bizim unique saiylarla elde ettiğimiz set
+        // simdi bu setteki elementleri, kendi arr'imize atamaliyiz
+
+        arr = new int[uniqueSet.size()]; // [0, 0, 0, 0, 0, 0]
+
+
     }
 }
