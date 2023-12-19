@@ -31,6 +31,13 @@ public class C06_Set {
 
         arr = new int[uniqueSet.size()]; // [0, 0, 0, 0, 0, 0]
 
+        int index = 0;
+        for (Integer each : uniqueSet){
+            arr[index] = each;
+            index ++;
+
+        }
+
 
     }
 }
