@@ -1,5 +1,6 @@
 package day42_ListIterator_Collections;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -37,7 +38,7 @@ public class C06_Set {
             index ++;
 
         }
-
+        System.out.println("Array'in son hali: " + Arrays.toString(arr));
 
     }
 }
