@@ -35,7 +35,6 @@ public class C06_VucütKitleEndeksi {
             System.out.println("zayıf");
         }
 
-
 /*
         if (vke > 50 || vke < 10) {
             System.out.println("değerler yanlıştır");

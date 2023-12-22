@@ -30,6 +30,5 @@ public class C04_Bolunebilme {
             System.out.println("hiç biri ayoll");
         }
 
-
     }
 }

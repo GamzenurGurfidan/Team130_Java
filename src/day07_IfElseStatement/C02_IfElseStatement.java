@@ -29,6 +29,5 @@ public class C02_IfElseStatement {
             System.out.println(karakter);
         }
 
-
     }
 }

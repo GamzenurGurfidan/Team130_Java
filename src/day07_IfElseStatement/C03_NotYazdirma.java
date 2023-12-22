@@ -30,7 +30,6 @@ public class C03_NotYazdirma {
             System.out.println("FF kaldın");
         }
 
-
             /*
         Scanner scanner = new Scanner(System.in);
         System.out.println("lütfen notunuzu giriniz: ");

@@ -21,7 +21,6 @@ public class C01_IfElseStatement {
         }
 
 
-
         /*
         Scanner scanner = new Scanner(System.in);
         System.out.println("Lütfen bir karakter giriniz: ");

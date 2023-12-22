@@ -37,7 +37,6 @@ public class C07_Emeklilik {
             System.out.println("gecersiz giriş");
         }
 
-
         /*
         Scanner scanner = new Scanner(System.in);
         System.out.println("Cinsiyetiniz ");
