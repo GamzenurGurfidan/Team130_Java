@@ -76,7 +76,6 @@ public class C07_Odev {
 
          */
 
-
         /*
         if (musKart.equalsIgnoreCase("evet") && urunAdedi >= 10) {
             System.out.println("%20 indirim uygulanmış fiyatı:" + (listeFiyatı - yuzde20));
